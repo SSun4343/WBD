@@ -1,0 +1,33 @@
+name: Update JSON from Google Sheet
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # 매일 오후 8시 (한국 시간)
+  workflow_dispatch:  # 수동 실행도 가능
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Download CSV from Google Sheets
+        run: curl -L "https://docs.google.com/spreadsheets/d/1iZXbs8q7ma2zqLW9T2onMA9uamn-TpfbLO_v73GyjaU/export?format=csv&gid=0" -o data.csv
+
+      - name: Convert CSV to JSON
+        run: python3 convert.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "auto: update JSON from Google Sheets" || echo "No changes to commit"
+          git push
