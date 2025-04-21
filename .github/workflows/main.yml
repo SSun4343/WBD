@@ -1,9 +1,9 @@
-name: Update JSON from Google Sheet  # ← 워크플로우 이름 추가
+name: Update JSON from Google Sheet
 
 on:
   schedule:
     - cron: '0 11 * * *'  # 매일 오후 8시 (KST)
-  workflow_dispatch:      # ← 수동 실행도 가능하게
+  workflow_dispatch:
 
 jobs:
   build:
