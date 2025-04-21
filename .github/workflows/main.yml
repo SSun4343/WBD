@@ -2,7 +2,7 @@ name: Update JSON from Google Sheet
 
 on:
   schedule:
-    - cron: '0 11 * * *'  # 매일 오후 8시 (KST)
+    - cron: '42 * * * *'  # 매일 오후 8시 (KST)
   workflow_dispatch:
 
 jobs:
