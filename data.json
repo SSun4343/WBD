@@ -1676,7 +1676,7 @@
   {
     "Name": "썬써니_",
     "Group": "KR",
-    "Index": "0",
+    "Index": "100",
     "AB": "3",
     "H": "11",
     "HR": "0",
@@ -1684,17 +1684,17 @@
     "AVG": "2",
     "OBP": "1",
     "SLG": "1",
-    "wRC+": "0.131",
-    "ERA": "",
-    "IP": "",
-    "K": "",
-    "WHIP": "",
-    "ERA+": ""
+    "wRC+": "0.1310833333",
+    "ERA": "0",
+    "IP": "0",
+    "K": "0",
+    "WHIP": "0",
+    "ERA+": "0"
   },
   {
     "Name": "HANA_ARASHI",
     "Group": "KR",
-    "Index": "1",
+    "Index": "101",
     "AB": "",
     "H": "",
     "HR": "",
@@ -1712,7 +1712,7 @@
   {
     "Name": "Pring__",
     "Group": "KR",
-    "Index": "2",
+    "Index": "102",
     "AB": "",
     "H": "",
     "HR": "",
@@ -1728,9 +1728,9 @@
     "ERA+": ""
   },
   {
-    "Name": "slaris",
+    "Name": "Slaris",
     "Group": "KR",
-    "Index": "3",
+    "Index": "103",
     "AB": "",
     "H": "",
     "HR": "",
@@ -1748,7 +1748,7 @@
   {
     "Name": "Gonyong",
     "Group": "KR",
-    "Index": "4",
+    "Index": "104",
     "AB": "",
     "H": "",
     "HR": "",
@@ -1766,7 +1766,7 @@
   {
     "Name": "ByeolBam",
     "Group": "KR",
-    "Index": "5",
+    "Index": "105",
     "AB": "",
     "H": "",
     "HR": "",
@@ -1784,7 +1784,7 @@
   {
     "Name": "Kr_Luna",
     "Group": "KR",
-    "Index": "6",
+    "Index": "106",
     "AB": "",
     "H": "",
     "HR": "",
