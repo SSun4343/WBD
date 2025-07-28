@@ -1562,7 +1562,7 @@
   {
     "Name": "天夜(AmayaINS)",
     "Group": "JP",
-    "Index": "",
+    "Index": "150",
     "Team": "",
     "Title": "",
     "AB": "21",
@@ -2082,7 +2082,7 @@
   {
     "Name": "うるの。",
     "Group": "JP",
-    "Index": "",
+    "Index": "152",
     "Team": "",
     "Title": "",
     "AB": "10",
@@ -2218,6 +2218,26 @@
     "K": "0",
     "WHIP": "0.000",
     "ERA+": "0.000"
+  },
+  {
+    "Name": "IbikiKai_JP",
+    "Group": "",
+    "Index": "151",
+    "Team": "",
+    "Title": "",
+    "AB": "",
+    "H": "",
+    "HR": "",
+    "SB": "",
+    "AVG": "",
+    "OBP": "",
+    "SLG": "",
+    "wRC+": "",
+    "ERA": "",
+    "IP": "",
+    "K": "",
+    "WHIP": "",
+    "ERA+": ""
   },
   {
     "Name": "썬써니_",
