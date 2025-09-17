@@ -2660,26 +2660,6 @@
     "ERA+": "0.000"
   },
   {
-    "Name": "썬써니_",
-    "Group": "",
-    "Index": "100",
-    "Team": "",
-    "Title": "Developer",
-    "AB": "",
-    "H": "",
-    "HR": "",
-    "SB": "",
-    "AVG": "",
-    "OBP": "",
-    "SLG": "",
-    "wRC+": "",
-    "ERA": "",
-    "IP": "",
-    "K": "",
-    "WHIP": "",
-    "ERA+": ""
-  },
-  {
     "Name": "siesta_aves",
     "Group": "JP",
     "Index": "170",
@@ -2698,5 +2678,25 @@
     "K": "0",
     "WHIP": "0.000",
     "ERA+": "0.000"
+  },
+  {
+    "Name": "썬써니_",
+    "Group": "",
+    "Index": "100",
+    "Team": "",
+    "Title": "Developer",
+    "AB": "",
+    "H": "",
+    "HR": "",
+    "SB": "",
+    "AVG": "",
+    "OBP": "",
+    "SLG": "",
+    "wRC+": "",
+    "ERA": "",
+    "IP": "",
+    "K": "",
+    "WHIP": "",
+    "ERA+": ""
   }
 ]
