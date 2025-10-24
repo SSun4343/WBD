@@ -1,7 +1,7 @@
 [
   {
     "Name": "HANA_ARASHI",
-    "Group": "KR",
+    "L": "K",
     "Index": "101",
     "Team": "",
     "Rank": "7",
@@ -22,7 +22,7 @@
   },
   {
     "Name": "Pring__",
-    "Group": "KR",
+    "L": "K",
     "Index": "102",
     "Team": "",
     "Rank": "",
@@ -43,7 +43,7 @@
   },
   {
     "Name": "Slaris",
-    "Group": "KR",
+    "L": "K",
     "Index": "103",
     "Team": "",
     "Rank": "",
@@ -64,7 +64,7 @@
   },
   {
     "Name": "Gonyong",
-    "Group": "KR",
+    "L": "K",
     "Index": "104",
     "Team": "",
     "Rank": "",
@@ -85,7 +85,7 @@
   },
   {
     "Name": "ByeolBam",
-    "Group": "KR",
+    "L": "K",
     "Index": "105",
     "Team": "",
     "Rank": "5",
@@ -106,7 +106,7 @@
   },
   {
     "Name": "Kr_Luna",
-    "Group": "KR",
+    "L": "K",
     "Index": "106",
     "Team": "",
     "Rank": "1",
@@ -127,7 +127,7 @@
   },
   {
     "Name": "ke ro",
-    "Group": "KR",
+    "L": "K",
     "Index": "107",
     "Team": "",
     "Rank": "",
@@ -148,7 +148,7 @@
   },
   {
     "Name": "눈꽃",
-    "Group": "KR",
+    "L": "K",
     "Index": "108",
     "Team": "",
     "Rank": "3",
@@ -169,7 +169,7 @@
   },
   {
     "Name": "-라후이-",
-    "Group": "KR",
+    "L": "K",
     "Index": "109",
     "Team": "",
     "Rank": "",
@@ -190,7 +190,7 @@
   },
   {
     "Name": "오띵__",
-    "Group": "KR",
+    "L": "K",
     "Index": "111",
     "Team": "",
     "Rank": "",
@@ -211,7 +211,7 @@
   },
   {
     "Name": "Espressο",
-    "Group": "KR",
+    "L": "K",
     "Index": "112",
     "Team": "",
     "Rank": "2",
@@ -232,7 +232,7 @@
   },
   {
     "Name": "DoYaGee",
-    "Group": "KR",
+    "L": "K",
     "Index": "113",
     "Team": "",
     "Rank": "",
@@ -253,7 +253,7 @@
   },
   {
     "Name": "muyang_",
-    "Group": "KR",
+    "L": "K",
     "Index": "116",
     "Team": "",
     "Rank": "",
@@ -274,7 +274,7 @@
   },
   {
     "Name": "Dοpi",
-    "Group": "KR",
+    "L": "K",
     "Index": "117",
     "Team": "",
     "Rank": "",
@@ -295,7 +295,7 @@
   },
   {
     "Name": "장덕춘_",
-    "Group": "KR",
+    "L": "K",
     "Index": "118",
     "Team": "",
     "Rank": "",
@@ -316,7 +316,7 @@
   },
   {
     "Name": "ゆっち一",
-    "Group": "KR",
+    "L": "K",
     "Index": "119",
     "Team": "",
     "Rank": "",
@@ -337,7 +337,7 @@
   },
   {
     "Name": "인생최패망자",
-    "Group": "KR",
+    "L": "K",
     "Index": "120",
     "Team": "",
     "Rank": "",
@@ -358,7 +358,7 @@
   },
   {
     "Name": "-Alta-",
-    "Group": "KR",
+    "L": "K",
     "Index": "121",
     "Team": "",
     "Rank": "",
@@ -379,7 +379,7 @@
   },
   {
     "Name": "Sabo_10",
-    "Group": "KR",
+    "L": "K",
     "Index": "123",
     "Team": "",
     "Rank": "",
@@ -400,7 +400,7 @@
   },
   {
     "Name": "Chunsik03",
-    "Group": "KR",
+    "L": "K",
     "Index": "126",
     "Team": "",
     "Rank": "",
@@ -421,7 +421,7 @@
   },
   {
     "Name": "SOM_candy",
-    "Group": "KR",
+    "L": "K",
     "Index": "127",
     "Team": "",
     "Rank": "",
@@ -442,7 +442,7 @@
   },
   {
     "Name": "Floră",
-    "Group": "KR",
+    "L": "K",
     "Index": "128",
     "Team": "",
     "Rank": "",
@@ -463,7 +463,7 @@
   },
   {
     "Name": "Roscosmos",
-    "Group": "KR",
+    "L": "K",
     "Index": "131",
     "Team": "",
     "Rank": "",
@@ -484,7 +484,7 @@
   },
   {
     "Name": "Riyaj",
-    "Group": "KR",
+    "L": "K",
     "Index": "132",
     "Team": "",
     "Rank": "",
@@ -505,7 +505,7 @@
   },
   {
     "Name": "HalF_HearteD",
-    "Group": "KR",
+    "L": "K",
     "Index": "133",
     "Team": "",
     "Rank": "",
@@ -526,7 +526,7 @@
   },
   {
     "Name": "Yaksok~",
-    "Group": "KR",
+    "L": "K",
     "Index": "134",
     "Team": "",
     "Rank": "",
@@ -547,7 +547,7 @@
   },
   {
     "Name": "mochi_2929",
-    "Group": "KR",
+    "L": "K",
     "Index": "136",
     "Team": "",
     "Rank": "6",
@@ -568,7 +568,7 @@
   },
   {
     "Name": "甲斐野柊太",
-    "Group": "KR",
+    "L": "K",
     "Index": "137",
     "Team": "",
     "Rank": "",
@@ -589,7 +589,7 @@
   },
   {
     "Name": "mungjungh",
-    "Group": "KR",
+    "L": "K",
     "Index": "140",
     "Team": "",
     "Rank": "",
@@ -610,7 +610,7 @@
   },
   {
     "Name": "Apple_Sherbet",
-    "Group": "KR",
+    "L": "K",
     "Index": "142",
     "Team": "",
     "Rank": "4",
@@ -631,7 +631,7 @@
   },
   {
     "Name": "소솨소솨",
-    "Group": "KR",
+    "L": "K",
     "Index": "143",
     "Team": "",
     "Rank": "",
@@ -652,7 +652,7 @@
   },
   {
     "Name": "_Chun",
-    "Group": "KR",
+    "L": "K",
     "Index": "144",
     "Team": "",
     "Rank": "",
@@ -673,7 +673,7 @@
   },
   {
     "Name": "レビノア",
-    "Group": "KR",
+    "L": "K",
     "Index": "148",
     "Team": "",
     "Rank": "",
@@ -694,7 +694,7 @@
   },
   {
     "Name": "あおいぬ",
-    "Group": "KR",
+    "L": "K",
     "Index": "149",
     "Team": "",
     "Rank": "",
@@ -715,7 +715,7 @@
   },
   {
     "Name": "TaeGeuk_",
-    "Group": "KR",
+    "L": "K",
     "Index": "153",
     "Team": "",
     "Rank": "",
@@ -736,7 +736,7 @@
   },
   {
     "Name": "encounter v",
-    "Group": "KR",
+    "L": "K",
     "Index": "155",
     "Team": "",
     "Rank": "",
@@ -757,7 +757,7 @@
   },
   {
     "Name": "하루（Haru）",
-    "Group": "KR",
+    "L": "K",
     "Index": "159",
     "Team": "",
     "Rank": "",
@@ -778,7 +778,7 @@
   },
   {
     "Name": "_앰프_",
-    "Group": "KR",
+    "L": "K",
     "Index": "165",
     "Team": "",
     "Rank": "",
@@ -799,7 +799,7 @@
   },
   {
     "Name": "Penguin_iDOL",
-    "Group": "KR",
+    "L": "K",
     "Index": "169",
     "Team": "",
     "Rank": "",
@@ -820,7 +820,7 @@
   },
   {
     "Name": "coder_",
-    "Group": "KR",
+    "L": "K",
     "Index": "217",
     "Team": "",
     "Rank": "",
@@ -841,7 +841,7 @@
   },
   {
     "Name": "CVPileMaki",
-    "Group": "KR",
+    "L": "K",
     "Index": "218",
     "Team": "",
     "Rank": "",
@@ -862,7 +862,7 @@
   },
   {
     "Name": "Pugeuk",
-    "Group": "KR",
+    "L": "K",
     "Index": "222",
     "Team": "",
     "Rank": "",
@@ -883,7 +883,7 @@
   },
   {
     "Name": "D_arling",
-    "Group": "KR",
+    "L": "K",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -904,7 +904,7 @@
   },
   {
     "Name": "WhiteMountain",
-    "Group": "KR",
+    "L": "K",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -925,7 +925,7 @@
   },
   {
     "Name": "즉석카레",
-    "Group": "KR",
+    "L": "K",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -946,7 +946,7 @@
   },
   {
     "Name": "편하비_",
-    "Group": "KR",
+    "L": "K",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -967,7 +967,7 @@
   },
   {
     "Name": "magimari",
-    "Group": "KR",
+    "L": "K",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -988,7 +988,7 @@
   },
   {
     "Name": "jdw4469",
-    "Group": "KR",
+    "L": "K",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1009,7 +1009,7 @@
   },
   {
     "Name": "bdg06213",
-    "Group": "JP",
+    "L": "J",
     "Index": "122",
     "Team": "",
     "Rank": "",
@@ -1030,7 +1030,7 @@
   },
   {
     "Name": "keiraiden",
-    "Group": "JP",
+    "L": "J",
     "Index": "124",
     "Team": "",
     "Rank": "",
@@ -1051,7 +1051,7 @@
   },
   {
     "Name": "Fresh825",
-    "Group": "JP",
+    "L": "J",
     "Index": "125",
     "Team": "",
     "Rank": "",
@@ -1072,7 +1072,7 @@
   },
   {
     "Name": "明智ナオユキ",
-    "Group": "JP",
+    "L": "J",
     "Index": "129",
     "Team": "",
     "Rank": "",
@@ -1093,7 +1093,7 @@
   },
   {
     "Name": "檸檬の残骸",
-    "Group": "JP",
+    "L": "J",
     "Index": "130",
     "Team": "",
     "Rank": "",
@@ -1114,7 +1114,7 @@
   },
   {
     "Name": "わかなで",
-    "Group": "JP",
+    "L": "J",
     "Index": "135",
     "Team": "",
     "Rank": "",
@@ -1135,7 +1135,7 @@
   },
   {
     "Name": "あくせる",
-    "Group": "JP",
+    "L": "J",
     "Index": "139",
     "Team": "",
     "Rank": "",
@@ -1156,7 +1156,7 @@
   },
   {
     "Name": "じゃがー",
-    "Group": "JP",
+    "L": "J",
     "Index": "141",
     "Team": "",
     "Rank": "",
@@ -1177,7 +1177,7 @@
   },
   {
     "Name": "「yune」",
-    "Group": "JP",
+    "L": "J",
     "Index": "145",
     "Team": "",
     "Rank": "",
@@ -1198,7 +1198,7 @@
   },
   {
     "Name": "_AKASATA_",
-    "Group": "JP",
+    "L": "J",
     "Index": "146",
     "Team": "",
     "Rank": "",
@@ -1219,7 +1219,7 @@
   },
   {
     "Name": "木賊（とくさ）",
-    "Group": "JP",
+    "L": "J",
     "Index": "147",
     "Team": "",
     "Rank": "",
@@ -1240,7 +1240,7 @@
   },
   {
     "Name": "天夜(AmayaINS)",
-    "Group": "JP",
+    "L": "J",
     "Index": "150",
     "Team": "",
     "Rank": "",
@@ -1261,7 +1261,7 @@
   },
   {
     "Name": "IbikiKai_JP",
-    "Group": "JP",
+    "L": "J",
     "Index": "151",
     "Team": "",
     "Rank": "",
@@ -1282,7 +1282,7 @@
   },
   {
     "Name": "うるの。",
-    "Group": "JP",
+    "L": "J",
     "Index": "152",
     "Team": "",
     "Rank": "",
@@ -1303,7 +1303,7 @@
   },
   {
     "Name": "まりびあ",
-    "Group": "JP",
+    "L": "J",
     "Index": "154",
     "Team": "",
     "Rank": "",
@@ -1324,7 +1324,7 @@
   },
   {
     "Name": "tsubasa_jp",
-    "Group": "JP",
+    "L": "J",
     "Index": "156",
     "Team": "",
     "Rank": "",
@@ -1345,7 +1345,7 @@
   },
   {
     "Name": "SFIDA",
-    "Group": "JP",
+    "L": "J",
     "Index": "157",
     "Team": "",
     "Rank": "",
@@ -1366,7 +1366,7 @@
   },
   {
     "Name": "Kenomo",
-    "Group": "JP",
+    "L": "J",
     "Index": "160",
     "Team": "",
     "Rank": "",
@@ -1387,7 +1387,7 @@
   },
   {
     "Name": "559：広告",
-    "Group": "JP",
+    "L": "J",
     "Index": "161",
     "Team": "",
     "Rank": "",
@@ -1408,7 +1408,7 @@
   },
   {
     "Name": "Ruby0212",
-    "Group": "JP",
+    "L": "J",
     "Index": "162",
     "Team": "",
     "Rank": "",
@@ -1429,7 +1429,7 @@
   },
   {
     "Name": "如月テト",
-    "Group": "JP",
+    "L": "J",
     "Index": "163",
     "Team": "",
     "Rank": "",
@@ -1450,7 +1450,7 @@
   },
   {
     "Name": "あいくんだよー",
-    "Group": "JP",
+    "L": "J",
     "Index": "164",
     "Team": "",
     "Rank": "",
@@ -1471,7 +1471,7 @@
   },
   {
     "Name": "ぐだもん",
-    "Group": "JP",
+    "L": "J",
     "Index": "166",
     "Team": "",
     "Rank": "",
@@ -1492,7 +1492,7 @@
   },
   {
     "Name": "KFC_IS_MY_LIFE",
-    "Group": "JP",
+    "L": "J",
     "Index": "167",
     "Team": "",
     "Rank": "",
@@ -1513,7 +1513,7 @@
   },
   {
     "Name": "Azuner",
-    "Group": "JP",
+    "L": "J",
     "Index": "168",
     "Team": "",
     "Rank": "",
@@ -1534,7 +1534,7 @@
   },
   {
     "Name": "siesta_aves",
-    "Group": "JP",
+    "L": "J",
     "Index": "170",
     "Team": "",
     "Rank": "",
@@ -1555,7 +1555,7 @@
   },
   {
     "Name": "紅さかな",
-    "Group": "JP",
+    "L": "J",
     "Index": "171",
     "Team": "",
     "Rank": "",
@@ -1576,7 +1576,7 @@
   },
   {
     "Name": "雪川かな",
-    "Group": "JP",
+    "L": "J",
     "Index": "174",
     "Team": "",
     "Rank": "",
@@ -1597,7 +1597,7 @@
   },
   {
     "Name": "alcohol500",
-    "Group": "JP",
+    "L": "J",
     "Index": "176",
     "Team": "",
     "Rank": "",
@@ -1618,7 +1618,7 @@
   },
   {
     "Name": "卯月満開",
-    "Group": "JP",
+    "L": "J",
     "Index": "180",
     "Team": "",
     "Rank": "",
@@ -1639,7 +1639,7 @@
   },
   {
     "Name": "Megu3568",
-    "Group": "JP",
+    "L": "J",
     "Index": "199",
     "Team": "",
     "Rank": "9",
@@ -1660,7 +1660,7 @@
   },
   {
     "Name": "shimenawa",
-    "Group": "JP",
+    "L": "J",
     "Index": "205",
     "Team": "",
     "Rank": "10",
@@ -1681,7 +1681,7 @@
   },
   {
     "Name": "sano jpn",
-    "Group": "JP",
+    "L": "J",
     "Index": "210",
     "Team": "",
     "Rank": "",
@@ -1702,7 +1702,7 @@
   },
   {
     "Name": "peperon8655",
-    "Group": "JP",
+    "L": "J",
     "Index": "211",
     "Team": "",
     "Rank": "",
@@ -1723,7 +1723,7 @@
   },
   {
     "Name": "なおｐ--",
-    "Group": "JP",
+    "L": "J",
     "Index": "219",
     "Team": "",
     "Rank": "8",
@@ -1744,7 +1744,7 @@
   },
   {
     "Name": "--めい--",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1765,7 +1765,7 @@
   },
   {
     "Name": "にゃんこ3K",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1786,7 +1786,7 @@
   },
   {
     "Name": "P0TA0",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1807,7 +1807,7 @@
   },
   {
     "Name": "収穫しろ！シャー芯",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1828,7 +1828,7 @@
   },
   {
     "Name": "kamezo-k",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1849,7 +1849,7 @@
   },
   {
     "Name": "mages_1st",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1870,7 +1870,7 @@
   },
   {
     "Name": "鬼灯 育",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1891,7 +1891,7 @@
   },
   {
     "Name": "大友雪",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1912,7 +1912,7 @@
   },
   {
     "Name": "碧端イシュ",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1933,7 +1933,7 @@
   },
   {
     "Name": "akahosi",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1954,7 +1954,7 @@
   },
   {
     "Name": "てるてるやき",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1975,7 +1975,7 @@
   },
   {
     "Name": "ibqrqki",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -1996,7 +1996,7 @@
   },
   {
     "Name": "kaferu",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2017,7 +2017,7 @@
   },
   {
     "Name": "shuwaYNZ",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2038,7 +2038,7 @@
   },
   {
     "Name": "TIM",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2059,7 +2059,7 @@
   },
   {
     "Name": "須磨-suma-",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2080,7 +2080,7 @@
   },
   {
     "Name": "恐怖！洗脳カブトムシ",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2101,7 +2101,7 @@
   },
   {
     "Name": "ごまごま",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2122,7 +2122,7 @@
   },
   {
     "Name": "ぴとふーい",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2143,7 +2143,7 @@
   },
   {
     "Name": "まーぼーなす",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2164,7 +2164,7 @@
   },
   {
     "Name": "よぉ～ぐると",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2185,7 +2185,7 @@
   },
   {
     "Name": "リョウスケ",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2206,7 +2206,7 @@
   },
   {
     "Name": "Metalu",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2227,7 +2227,7 @@
   },
   {
     "Name": "ふらいんぐじゃむ",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2248,7 +2248,7 @@
   },
   {
     "Name": "スノーグラン",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2269,7 +2269,7 @@
   },
   {
     "Name": "白玉ユタ",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2290,7 +2290,7 @@
   },
   {
     "Name": "alta",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2311,7 +2311,7 @@
   },
   {
     "Name": "愛莉",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2332,7 +2332,7 @@
   },
   {
     "Name": "singing",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2353,7 +2353,7 @@
   },
   {
     "Name": "めりにっと",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2374,7 +2374,7 @@
   },
   {
     "Name": "Lucky",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2395,7 +2395,7 @@
   },
   {
     "Name": "azinasu",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2416,7 +2416,7 @@
   },
   {
     "Name": "PeachApple",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2437,7 +2437,7 @@
   },
   {
     "Name": "なぎっちゅ。",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2458,7 +2458,7 @@
   },
   {
     "Name": "タダノ_社会人1473",
-    "Group": "JP",
+    "L": "J",
     "Index": "",
     "Team": "",
     "Rank": "",
@@ -2479,7 +2479,7 @@
   },
   {
     "Name": "iRFsA",
-    "Group": "",
+    "L": "",
     "Index": "114",
     "Team": "",
     "Rank": "",
@@ -2500,7 +2500,7 @@
   },
   {
     "Name": "썬써니_",
-    "Group": "",
+    "L": "",
     "Index": "100",
     "Team": "",
     "Rank": "",
@@ -2521,7 +2521,7 @@
   },
   {
     "Name": "포 메 라 니 안",
-    "Group": "",
+    "L": "",
     "Index": "110",
     "Team": "",
     "Rank": "",
@@ -2542,7 +2542,7 @@
   },
   {
     "Name": "ときめき",
-    "Group": "",
+    "L": "",
     "Index": "115",
     "Team": "",
     "Rank": "",
@@ -2563,7 +2563,7 @@
   },
   {
     "Name": "yun_x",
-    "Group": "",
+    "L": "",
     "Index": "138",
     "Team": "",
     "Rank": "",
@@ -2584,7 +2584,7 @@
   },
   {
     "Name": "버블붐_Bubbleboom",
-    "Group": "",
+    "L": "",
     "Index": "158",
     "Team": "",
     "Rank": "",
@@ -2605,7 +2605,7 @@
   },
   {
     "Name": "CAT tourniquet",
-    "Group": "",
+    "L": "",
     "Index": "172",
     "Team": "",
     "Rank": "",
@@ -2626,7 +2626,7 @@
   },
   {
     "Name": "vovopo (보보포)",
-    "Group": "",
+    "L": "",
     "Index": "173",
     "Team": "",
     "Rank": "",
@@ -2647,7 +2647,7 @@
   },
   {
     "Name": "Oort__Cloud",
-    "Group": "",
+    "L": "",
     "Index": "175",
     "Team": "",
     "Rank": "",
@@ -2668,7 +2668,7 @@
   },
   {
     "Name": "ByeolBam__",
-    "Group": "",
+    "L": "",
     "Index": "177",
     "Team": "",
     "Rank": "",
@@ -2689,7 +2689,7 @@
   },
   {
     "Name": "神崎漣 -れん-",
-    "Group": "",
+    "L": "",
     "Index": "178",
     "Team": "",
     "Rank": "",
@@ -2710,7 +2710,7 @@
   },
   {
     "Name": "shuwaYNZ",
-    "Group": "",
+    "L": "",
     "Index": "179",
     "Team": "",
     "Rank": "",
@@ -2731,7 +2731,7 @@
   },
   {
     "Name": "そば処 無期懲役",
-    "Group": "",
+    "L": "",
     "Index": "181",
     "Team": "",
     "Rank": "",
@@ -2752,7 +2752,7 @@
   },
   {
     "Name": "gabigabi_znda",
-    "Group": "",
+    "L": "",
     "Index": "182",
     "Team": "",
     "Rank": "",
@@ -2773,7 +2773,7 @@
   },
   {
     "Name": "_이누_",
-    "Group": "",
+    "L": "",
     "Index": "183",
     "Team": "",
     "Rank": "",
@@ -2794,7 +2794,7 @@
   },
   {
     "Name": "もみもみもみじ",
-    "Group": "",
+    "L": "",
     "Index": "184",
     "Team": "",
     "Rank": "",
@@ -2815,7 +2815,7 @@
   },
   {
     "Name": "ぽゆ⁄poyu",
-    "Group": "",
+    "L": "",
     "Index": "185",
     "Team": "",
     "Rank": "",
@@ -2836,7 +2836,7 @@
   },
   {
     "Name": "なみどめ",
-    "Group": "",
+    "L": "",
     "Index": "186",
     "Team": "",
     "Rank": "",
@@ -2857,7 +2857,7 @@
   },
   {
     "Name": "鈴 咲羽",
-    "Group": "",
+    "L": "",
     "Index": "187",
     "Team": "",
     "Rank": "",
@@ -2878,7 +2878,7 @@
   },
   {
     "Name": "カズティー",
-    "Group": "",
+    "L": "",
     "Index": "188",
     "Team": "",
     "Rank": "",
@@ -2899,7 +2899,7 @@
   },
   {
     "Name": "初見そら Sora Hazmi",
-    "Group": "",
+    "L": "",
     "Index": "189",
     "Team": "",
     "Rank": "",
@@ -2920,7 +2920,7 @@
   },
   {
     "Name": "RON狼",
-    "Group": "",
+    "L": "",
     "Index": "190",
     "Team": "",
     "Rank": "",
@@ -2941,7 +2941,7 @@
   },
   {
     "Name": "Lilim-Abyss",
-    "Group": "",
+    "L": "",
     "Index": "191",
     "Team": "",
     "Rank": "",
@@ -2962,7 +2962,7 @@
   },
   {
     "Name": "パインサラダ",
-    "Group": "",
+    "L": "",
     "Index": "192",
     "Team": "",
     "Rank": "",
@@ -2983,7 +2983,7 @@
   },
   {
     "Name": "RaizinSin",
-    "Group": "",
+    "L": "",
     "Index": "193",
     "Team": "",
     "Rank": "",
@@ -3004,7 +3004,7 @@
   },
   {
     "Name": "まめもも",
-    "Group": "",
+    "L": "",
     "Index": "194",
     "Team": "",
     "Rank": "",
@@ -3025,7 +3025,7 @@
   },
   {
     "Name": "＊おると＊",
-    "Group": "",
+    "L": "",
     "Index": "195",
     "Team": "",
     "Rank": "",
@@ -3046,7 +3046,7 @@
   },
   {
     "Name": "ミューティオ",
-    "Group": "",
+    "L": "",
     "Index": "196",
     "Team": "",
     "Rank": "",
@@ -3067,7 +3067,7 @@
   },
   {
     "Name": "fiatan654（麻婆茄子）",
-    "Group": "",
+    "L": "",
     "Index": "197",
     "Team": "",
     "Rank": "",
@@ -3088,7 +3088,7 @@
   },
   {
     "Name": "セジュミン",
-    "Group": "",
+    "L": "",
     "Index": "198",
     "Team": "",
     "Rank": "",
@@ -3109,7 +3109,7 @@
   },
   {
     "Name": "なでこ69",
-    "Group": "",
+    "L": "",
     "Index": "200",
     "Team": "",
     "Rank": "",
@@ -3130,7 +3130,7 @@
   },
   {
     "Name": "牧瀬ねう",
-    "Group": "",
+    "L": "",
     "Index": "201",
     "Team": "",
     "Rank": "",
@@ -3151,7 +3151,7 @@
   },
   {
     "Name": "天夜（AmayaINS）",
-    "Group": "",
+    "L": "",
     "Index": "202",
     "Team": "",
     "Rank": "",
@@ -3172,7 +3172,7 @@
   },
   {
     "Name": "しろくま。",
-    "Group": "",
+    "L": "",
     "Index": "203",
     "Team": "",
     "Rank": "",
@@ -3193,7 +3193,7 @@
   },
   {
     "Name": "buista_すず",
-    "Group": "",
+    "L": "",
     "Index": "204",
     "Team": "",
     "Rank": "",
@@ -3214,7 +3214,7 @@
   },
   {
     "Name": "ʚEveɞ",
-    "Group": "",
+    "L": "",
     "Index": "206",
     "Team": "",
     "Rank": "",
@@ -3235,7 +3235,7 @@
   },
   {
     "Name": "ʚmingɞ",
-    "Group": "",
+    "L": "",
     "Index": "207",
     "Team": "",
     "Rank": "",
@@ -3256,7 +3256,7 @@
   },
   {
     "Name": "NABIMan",
-    "Group": "",
+    "L": "",
     "Index": "208",
     "Team": "",
     "Rank": "",
@@ -3277,7 +3277,7 @@
   },
   {
     "Name": "リヴィアス",
-    "Group": "",
+    "L": "",
     "Index": "209",
     "Team": "",
     "Rank": "",
@@ -3298,7 +3298,7 @@
   },
   {
     "Name": "Pizzallaris",
-    "Group": "",
+    "L": "",
     "Index": "212",
     "Team": "",
     "Rank": "",
@@ -3319,7 +3319,7 @@
   },
   {
     "Name": "Multeinn",
-    "Group": "",
+    "L": "",
     "Index": "213",
     "Team": "",
     "Rank": "",
@@ -3340,7 +3340,7 @@
   },
   {
     "Name": "MAX_GaeBolg",
-    "Group": "",
+    "L": "",
     "Index": "214",
     "Team": "",
     "Rank": "",
@@ -3361,7 +3361,7 @@
   },
   {
     "Name": "0cta N",
-    "Group": "",
+    "L": "",
     "Index": "215",
     "Team": "",
     "Rank": "",
@@ -3382,7 +3382,7 @@
   },
   {
     "Name": "らいず-Rize",
-    "Group": "",
+    "L": "",
     "Index": "216",
     "Team": "",
     "Rank": "",
@@ -3403,7 +3403,7 @@
   },
   {
     "Name": "RuiMk2",
-    "Group": "",
+    "L": "",
     "Index": "220",
     "Team": "",
     "Rank": "",
@@ -3424,7 +3424,7 @@
   },
   {
     "Name": "Lein․＠キノピオPro",
-    "Group": "",
+    "L": "",
     "Index": "221",
     "Team": "",
     "Rank": "",
