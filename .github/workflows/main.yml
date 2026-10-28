@@ -2,34 +2,38 @@ name: Update JSON from Google Sheet
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 매일 오후 8시 (KST)
+    - cron: "0 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: world-player-json
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-
+          python-version: "3.11"
+      - name: Check converter validation
+        run: python3 -m unittest test_convert.py
       - name: Download CSV from Google Sheets
-        run: curl -L "https://docs.google.com/spreadsheets/d/1iZXbs8q7ma2zqLW9T2onMA9uamn-TpfbLO_v73GyjaU/export?format=csv&gid=0" -o data.csv
-
-      - name: Convert CSV to JSON
+        run: curl --fail --show-error --location --retry 2 --max-time 30 'https://docs.google.com/spreadsheets/d/1iZXbs8q7ma2zqLW9T2onMA9uamn-TpfbLO_v73GyjaU/export?format=csv&gid=0' -o data.csv
+      - name: Validate and convert CSV
         run: python3 convert.py
-
-      - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit only a valid changed snapshot
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git commit -m "auto: update JSON from Google Sheets" || echo "No changes"
-          git push origin HEAD:${{ github.ref_name }}
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          if ! git diff --quiet -- data.json; then
+            git add data.json
+            git commit -m 'auto: update JSON from Google Sheets'
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+
