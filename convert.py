@@ -23,7 +23,8 @@ def parse_players(source):
             value = row[key].strip()
             if value and (not re.fullmatch(r"[0-9]+", value) or int(value) > 2147483647):
                 raise ValueError("Invalid player number")
-        rows.append(row)
+        if any(value.strip() for key, value in row.items() if key not in {"Name", "L"}):
+            rows.append(row)
     if not rows:
         raise ValueError("Empty player snapshot")
     return rows
